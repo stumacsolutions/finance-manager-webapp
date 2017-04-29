@@ -7,3 +7,9 @@ dependencies:
 test:
   override:
     - yarn test
+deployment:
+  prod:
+    branch: master
+    commands:
+      - yarn build
+      - aws s3 sync ./public s3://finance-manager-webapp --delete
