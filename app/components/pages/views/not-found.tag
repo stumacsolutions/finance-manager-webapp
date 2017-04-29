@@ -1,3 +1,3 @@
 <not-found-page>
-  <h2>Not Found Page</h2>
+  <h2>not-found-page</h2>
 </not-found-page>

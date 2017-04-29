@@ -1,3 +1,3 @@
 <home-page>
-  <h2>Home</h2>
+  <h2>home-page</h2>
 </home-page>

@@ -1,4 +1,4 @@
 <app>
-  <h1>App Container</h1>
+  <h1>app</h1>
   <route/>
 </app>

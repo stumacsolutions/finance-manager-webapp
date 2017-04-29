@@ -1,3 +1,3 @@
 <about-page>
-  <h2>About</h2>
+  <h2>about-page</h2>
 </about-page>
