@@ -12,4 +12,4 @@ deployment:
     branch: master
     commands:
       - yarn build
-      - aws s3 sync ./public s3://finance-manager-webapp
+      - aws s3 sync ./public s3://finance-manager-webapp --acl public-read
